@@ -60,7 +60,7 @@ body {
 
 #display:focus {
   outline: none;
-  border-color: #d9d6d6;
+  border: 2px solid #007AFF;
 }
 
 #add-btn {
